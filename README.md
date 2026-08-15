@@ -183,7 +183,7 @@ This is one of the central research directions of the project.
 
 ---
 
-# The 14-File Computational System
+# Base Computational System
 
 The current research system is organized into fourteen Python components.
 
